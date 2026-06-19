@@ -1,3 +1,4 @@
+//wap to write function to check armstrong number
 #include <iostream>
 #include <cmath>
 using namespace std;

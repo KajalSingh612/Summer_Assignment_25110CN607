@@ -1,3 +1,4 @@
+//wap to write function to check fibonacci number
 #include <iostream>
 using namespace std;
 
